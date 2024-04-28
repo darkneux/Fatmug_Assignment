@@ -1,0 +1,48 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment
+envir/
+
+# Ignore database files
+*.sqlite3
+
+# Ignore media files if you're storing user-uploaded content
+media/
+
+# Ignore any log files
+*.log
+
+# Ignore secret keys and sensitive information
+*.secret
+
+# Ignore any environment-specific files
+*.env
+
+# Ignore any temporary files
+*.tmp
+
+# Ignore any compiled files
+*.o
+*.lo
+*.la
+*.al
+*.out
+*.dll
+*.exe
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.class
+*.jar
+
+# Ignore any package files
+*.egg
+*.egg-info
+dist/
+build/
+.idea/
