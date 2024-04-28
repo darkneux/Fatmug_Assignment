@@ -36,7 +36,7 @@ media/
 *.lib
 *.so
 *.so.*
-*.dylib
+*.dyli
 *.class
 *.jar
 
